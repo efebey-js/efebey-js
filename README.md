@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @efebey-js
-- 👀 I’m interested in: Codes, hacks
+- 👋 Hi, I’m @eyigitflex
+- 👀 I’m interested in: Codes
 - 🌱 I’m currently learning: Codes
 - 💞️ I’m looking to collaborate on: Can be everyone
 - 📫 How to reach me: Discord: skuura. Gmail: efebeyjs@gmail.com
